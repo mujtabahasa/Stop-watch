@@ -85,6 +85,8 @@ main div:nth-last-child(1) button:hover {
     h2{
         font-size: 50px;
     }
-
+    main:hover {
+        transform: scale(1);
+    }
 
 }
